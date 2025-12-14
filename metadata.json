@@ -1,0 +1,7 @@
+{
+  "description": "AI Face Transformer with style transfer and age progression.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "AI Face Transformer"
+}
